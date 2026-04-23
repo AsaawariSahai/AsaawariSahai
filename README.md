@@ -1,4 +1,4 @@
-My name is Asaawari Sahai. I am 16 years old and I'm a programmer. I'm currently living in Kolkata, India.
+hi! i’m Asaawari Sahai, a 17-year-old programmer from Kolkata, India, turning confusion into code.
 
 ## 🔧 Technologies & Tools
 
