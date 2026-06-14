@@ -1,4 +1,4 @@
-hi! i’m Asaawari Sahai, a 17-year-old programmer from Kolkata, India, turning confusion into code.
+Hi! i’m Asaawari Sahai, a 17-year-old programmer from Kolkata, India, turning confusion into code.
 
 ## 🔧 Technologies & Tools
 
@@ -31,6 +31,12 @@ hi! i’m Asaawari Sahai, a 17-year-old programmer from Kolkata, India, turning 
 </a>
 <a href="https://github.com/AsaawariSahai/rock_paper_scissors">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsaawariSahai&repo=rock_paper_scissors&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/AsaawariSahai/Maitree26">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsaawariSahai&repo=Maitree26&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/AsaawariSahai/DigitalCompanion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsaawariSahai&repo=DigitalCompanion&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ![](https://profile-counter.glitch.me/AsaawariSahai/count.svg)
